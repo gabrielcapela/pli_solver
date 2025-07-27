@@ -2,8 +2,8 @@
 
 Este repositório contém um notebook com exemplos de resolução de **problemas de otimização linear** utilizando duas abordagens:
 
-- ✅ `scipy.optimize.linprog` — para problemas de **programação linear contínua**
-- ✅ `PuLP` — para problemas de **programação linear inteira**
+-  `scipy.optimize.linprog` — para problemas de **programação linear contínua**
+-  `PuLP` — para problemas de **programação linear inteira**
 
 ---
 
