@@ -14,4 +14,4 @@ Este repositório contém um notebook com exemplos de resolução de **problemas
 
 ## ▶️ Como executar
 [Acesse online o notebook explicativo com os scripts]
-(https://colab.research.google.com/drive/11ZxXf0b1iQ9PAAk5SEk7T3Kh20PpDgUa?usp=share_link)
+(https://colab.research.google.com/drive/1TlMYggaSqCG459JGS7co1ybWll8Fwi52?usp=share_link)
