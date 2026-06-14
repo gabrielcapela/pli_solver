@@ -1,9 +1,6 @@
 # Resolução de Problemas de Otimização Linear com Python
 
-Este repositório contém um notebook com exemplos de resolução de **problemas de otimização linear** utilizando duas abordagens:
-
--  `scipy.optimize.linprog` — para problemas de **programação linear contínua**
--  `PuLP` — para problemas de **programação linear inteira**
+Este repositório contém um notebook com exemplos de resolução de **problemas de otimização linear**
 
 ---
 
@@ -11,7 +8,6 @@ Este repositório contém um notebook com exemplos de resolução de **problemas
 
 - Python 3.x
 - [PuLP](https://coin-or.github.io/pulp/)
-- [SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.linprog.html)
 - Jupyter Notebook
 
 ---
